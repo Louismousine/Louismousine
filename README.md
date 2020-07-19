@@ -4,3 +4,4 @@
 
 ## My music
 ![Spotify](https://sleepy-oasis-07806.herokuapp.com/) 
+##### This iframe is hosted on Heroku; it might require a page reload to properly display.
